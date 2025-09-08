@@ -1,11 +1,12 @@
 Thank you KennyYip from Youtube as the reference for this project
 
-#Goal:
+# Goal:
 
 get as higher mark as you can!
 
 
-#Controls
+# Controls
 Use your space key to control
+
 
 
